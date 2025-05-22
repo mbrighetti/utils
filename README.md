@@ -3,6 +3,13 @@
 Raccolta di script e strumenti utili per l'automazione, la manutenzione e il monitoraggio dell'infrastruttura IT.  
 Questa repository è mantenuta da Michele, IT Infrastructure Specialist presso Coswell S.p.A.
 
+Miei programmi preferiti:
+  - Microsoft PowerToys
+  - Microsoft Edit: https://github.com/microsoft/edit
+  - Microsoft Visual Studio Code
+  - Windows Sandbox
+  - mRemoteNG
+
 ## 📦 Contenuti
 
 - ✅ Script PowerShell per la manutenzione di server Windows
